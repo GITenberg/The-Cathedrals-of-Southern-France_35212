@@ -1,0 +1,40 @@
+_repo: The-Cathedrals-of-Southern-France_35212
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: McManus, Blanche
+    aliases:
+    - Mansfield, Blanche McManus
+    - MacManus, Blanche
+    birthdate: 1869
+    deathdate: 1935
+    gutenberg_agent_id: '31610'
+    url: http://www.gutenberg.org/2009/agents/31610
+covers:
+- cover_type: archival
+  image_path: 35212-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mansfield, M. F. (Milburg Francisco)
+    aliases:
+    - Miltoun, Francis
+    - Mansfield, M.F
+    - Mansfield, Milburg Francisco
+    birthdate: 1871
+    gutenberg_agent_id: '31606'
+    url: http://www.gutenberg.org/2009/agents/31606
+description: ''
+gutenberg_issued: '2011-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35212'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Description and travel'
+- !lcc 'DC'
+- !lcsh 'Cathedrals -- France'
+title: The Cathedrals of Southern France
+url: http://www.gutenberg.org/ebooks/35212
